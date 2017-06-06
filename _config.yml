@@ -4,7 +4,7 @@
 title: The Oil Fusion.
 description: ""
 analytics: UA-100583600-1
-baseurl: "." #important: start with /
+baseurl: "" #important: start with /
 url: "http://theoilfusion.github.io"
 
 # Build settings

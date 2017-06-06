@@ -37,9 +37,9 @@ social:
 #  - title: facebook
 #    url:
   - title: twitter
-    url:https://twitter.com/theoilfusion
+    url: https://twitter.com/theoilfusion
   - title: instagram
-    url:https://www.instagram.com/theoilfusion/
+    url: https://www.instagram.com/theoilfusion/
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 #address:

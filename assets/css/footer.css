@@ -30,3 +30,12 @@ body {
 .container .text-muted {
   margin: 20px 0;
 }
+
+.brandx {
+  font-family: "Croissant One","Helvetica Neue",Helvetica,sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -3px;
+  color: #7a6ebf;
+  display: inline-block;
+}
